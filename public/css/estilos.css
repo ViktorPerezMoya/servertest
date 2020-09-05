@@ -1,0 +1,14 @@
+p {
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    padding: 20px;
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
